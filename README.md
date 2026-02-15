@@ -50,3 +50,14 @@
 **Checking Sales quantity by Ship mode**
 
 >=COUNTIF(Table1[Ship Mode],I14)
+![Image](https://github.com/user-attachments/assets/fcb55b8e-f525-4f5c-a875-6b6bb4e82292)
+
+![Image](https://github.com/user-attachments/assets/021d3220-7cad-4554-affa-a8cc8f488e57)
+
+![Image](https://github.com/user-attachments/assets/cf839269-bf94-4689-9ab1-935897db1db3)
+
+![Image](https://github.com/user-attachments/assets/6565be05-3875-4846-aff0-a55789597e84)
+
+![Image](https://github.com/user-attachments/assets/e3551836-7e14-4870-a006-408856309faf)
+
+![Image](https://github.com/user-attachments/assets/56260bef-0c73-4457-a529-0a81d4d5dcc5)

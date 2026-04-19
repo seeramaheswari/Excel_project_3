@@ -51,6 +51,8 @@
 
 >=COUNTIF(Table1[Ship Mode],I14)
 
-![Image](https://github.com/user-attachments/assets/e3551836-7e14-4870-a006-408856309faf)
+><img width="1600" height="1200" alt="Image" src="https://github.com/user-attachments/assets/decbf9cf-5255-493d-bfb1-995e6829770a" />
 
-![Image](https://github.com/user-attachments/assets/56260bef-0c73-4457-a529-0a81d4d5dcc5)
+<img width="1600" height="1200" alt="Image" src="https://github.com/user-attachments/assets/9b8f0487-0db3-4071-be0a-c64cbca09779" />
+
+
